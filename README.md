@@ -1,9 +1,9 @@
 - 👋 Hi, I'm Mohammad Maleki
-- 👀 I’m Computer Engineer
-- 🌱 I’m Software Engineer & Web Developer 
-- 💞️ I’m Learn & Work Front-End
-- 📫 My Email: it.man.4444@gmail.com
-- 🔰 Instagram: @pepbtc | Telegram: @btcpep
+- 👀 I’m Computer Engineer (Software) & Computer Science 
+- 🌱 I’m Data Scientist & Engineer IT 
+- 💞️ I’m Learn Data Science (AI) 
+- 📫 My Email: MohammadMaleki.Official@gmail.com
+- 🔰 Instagram & Telegram : @MalekiOfficial
 
 <!---
 MalekiOfficial/MalekiOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

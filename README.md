@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Mohammad Maleki
 - 👀 I’m Computer Engineer (Software) & Computer Science 
-- 🌱 I’m Data Scientist & Engineer IT & Front-End (HTML - CSS) 
+- 🌱 I’m Data Scientist & Engineer IT & Front-End Developer
 - 💞️ I’m Learn Data Science (AI) 
 - 📫 My Email: MohammadMaleki.Official@gmail.com
 - 🔰 Instagram & Telegram : @MalekiOfficial

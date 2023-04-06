@@ -2,7 +2,7 @@
 - 👀 I’m Computer Engineer (Software) & Computer Science 
 - 🌱 I’m Data Scientist & Engineer IT & Front-End Developer
 - 💞️ I’m Learn Data Science (AI) 
-- 📫 My Email: MohammadMaleki.Official@gmail.com
+- 📫 My Email: Info.MohammadMaleki@gmail.com
 - 🔰 Instagram & Telegram : @MalekiOfficial
 
 <!---
